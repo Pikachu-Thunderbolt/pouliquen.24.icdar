@@ -144,3 +144,16 @@ In `notebooks/visualisation` two notebooks are present allowing to:
 
 ## Framework
 The framework was built using [Hydra](https://github.com/facebookresearch/hydra) ([documentation](https://hydra.cc/docs/)) and [MLflow](https://github.com/mlflow/mlflow) for logging experiments.
+
+## Citation
+If you use this work, please cite:
+```
+@inproceedings{pouliquen_weakly_2024,
+author = {Pouliquen, Glen and Chiron, Guillaume and Chazalon, Joseph and G\'{e}raud, Thierry and Awal, Ahmad Montaser},
+title = {Weakly Supervised Training for Hologram Verification in Identity Documents},
+booktitle = {Proceedings of the 18th International Conference on Document Analysis and Recognition (ICDAR)},
+year = {2024},
+pages = {17–33},
+doi = {10.1007/978-3-031-70533-5_2},
+}
+```
